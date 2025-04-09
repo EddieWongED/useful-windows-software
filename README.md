@@ -11,3 +11,6 @@ List of useful software in Windows.
 ### [Everything](https://www.voidtools.com/)
 - Incredibly fast file searching app.
 - Could be integrated with Flow Launcher.
+
+### [Procmon](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon)
+- Show real-time file system, registry, network and process/thread activity.
